@@ -22,7 +22,7 @@
     preview do podcast
 </p>
 
-[🔊 Clique para ouvir o Episódio 1](output/episodio-1-editado.mp3)
+[▶️ Ouvir Episódio](https://github.com/seu-usuario/seu-repo/blob/main/output/episodio-1-editado.mp3?raw=true)
 
 # Projeto Podcast Gerado por I.A.s
 
