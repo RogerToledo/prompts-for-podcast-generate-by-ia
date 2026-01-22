@@ -22,9 +22,7 @@
     preview do podcast
 </p>
 
-<div align="center">
-    <audio src="output/episodio-1-editado.mp3" controls title="Podcast editado"></audio>
-</div>
+[🔊 Clique para ouvir o Episódio 1](output/episodio-1-editado.mp3)
 
 # Projeto Podcast Gerado por I.A.s
 
